@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Panic - Playdate (Source Code)</name>
+		<description>Panic - Playdate (Source Code)</description>
+		<version>20210121-025025</version>
+		<author>SynapsesConsortium</author>
+		<homepage>No-Crank</homepage>
+		<url>https://github.com</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="9-05 (World)">
+		<description>9-05 (World)</description>
+		<rom name="9-05 (World).json" size="44046" crc="e5969d3d" md5="11f9132f9c973c0d30cc69f007a9594d" sha1="469697ef0c2c72dba49a2a035ef2b2b672574c83"/>
+	</game>
+	<game name="Alpha Tutorial (World) (Sample)">
+		<description>Alpha Tutorial (World) (Sample)</description>
+		<rom name="Alpha Tutorial (World) (Sample).json" size="28129" crc="b5fc553d" md5="532cabded4a6935de43531c21af0f6f8" sha1="209beb27736e47dde0aec56465fe63dcb5c224a8"/>
+	</game>
+	<game name="Coin Germs (World)">
+		<description>Coin Germs (World)</description>
+		<rom name="Coin Germs (World).json" size="95913" crc="ae76ef76" md5="cbad8fc9410a2f111efae587622ea4b9" sha1="76a8257752a3be65417e173f4ce08833cdd59b98"/>
+	</game>
+	<game name="Game Jam Theme Picker (World) (Program)">
+		<description>Game Jam Theme Picker (World) (Program)</description>
+		<rom name="Game Jam Theme Picker (World) (Program).json" size="74601" crc="39b4561f" md5="42f6873b04da4ffc02a9aa5095294f18" sha1="1ab87a9dbd123b8515c6fa8f8dffeddfac76ff8b"/>
+	</game>
+	<game name="Game Of Life (World)">
+		<description>Game Of Life (World)</description>
+		<rom name="Game Of Life (World).json" size="22797" crc="92fec402" md5="4e051b177e081e1cfd344b94748227bd" sha1="e19651f39fe7c66aaa6b2dbdfc70b78ec577a69a"/>
+	</game>
+	<game name="Hidey Spot (World) (Proto)">
+		<description>Hidey Spot (World) (Proto)</description>
+		<rom name="Hidey Spot (World) (Proto).json" size="560239" crc="3f517c54" md5="61d5c186eb4fb1f4d7ba9690e9850fd7" sha1="43f581937a9d7f670f358c1ba966d8b8672a4a76"/>
+	</game>
+	<game name="Hotel Heartbreak (World)">
+		<description>Hotel Heartbreak (World)</description>
+		<rom name="Hotel Heartbreak (World).json" size="109680" crc="12ce12cf" md5="235c758097f09201e61e06f0d85c07ab" sha1="7120c89e4368a03336967d77dff721c5929b8f61"/>
+	</game>
+	<game name="I Was Dead, But&#133; (World) (v1.0.1)">
+		<description>I Was Dead, But&#133; (World) (v1.0.1)</description>
+		<rom name="I Was Dead, But&#226;&#128;&#166; (World) (v1.0.1).json" size="391039" crc="93d22a2b" md5="68288ed6387cc96530245bcc87e8c082" sha1="4bcb61551d87a0de6255425fb44b3b6441066031"/>
+	</game>
+	<game name="IP Invaders (World)">
+		<description>IP Invaders (World)</description>
+		<rom name="IP Invaders (World).json" size="27424" crc="98cf2ae7" md5="a17ff655daa516f347a6076e74e57e63" sha1="657daed9ed8edc7e125f9acb7300be74ec42b0f6"/>
+	</game>
+	<game name="Player Tricks (World) (Sample)">
+		<description>Player Tricks (World) (Sample)</description>
+		<rom name="Player Tricks (World) (Sample).json" size="32033" crc="8d028e56" md5="3dfa09bd5eac307e0c3f884a7ff0783f" sha1="c7a607ac418791ea77029b39fd8fde8e81700d35"/>
+	</game>
+	<game name="Pulp Game (World) (v3.6)">
+		<description>Pulp Game (World) (v3.6)</description>
+		<rom name="Pulp Game (World) (v3.6).json" size="188203" crc="96a5331a" md5="3e3948766c8c1a29356df63316d70d42" sha1="6b9e6801324c465a5f102216b338f64b288e628c"/>
+	</game>
+	<game name="Pulp Pong (World) (v2.41)">
+		<description>Pulp Pong (World) (v2.41)</description>
+		<rom name="Pulp Pong (World) (v2.41).json" size="49939" crc="31d5528e" md5="ef04b3a47224d40ad3534a6044783d22" sha1="0f060c9fdc8ecf454b497d6f67b1d026b3d9d06c"/>
+	</game>
+	<game name="Sprout (World)">
+		<description>Sprout (World)</description>
+		<rom name="Sprout (World).json" size="395556" crc="c5b3e56e" md5="825dd12335b1bd1722a6df8457051755" sha1="2e8409b7bc35bd245e795bb8c3c059ca25dd72e2"/>
+	</game>
+</datafile>

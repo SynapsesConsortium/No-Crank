@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Panic - Playdate</name>
+		<description>Panic - Playdate</description>
+		<version>20210120-024925</version>
+		<author>SynapsesConsortium</author>
+		<homepage>No-Crank</homepage>
+		<url>https://github.com</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="9-05 (World)">
+		<description>9-05 (World)</description>
+		<rom name="9-05 (World).pdx" size="46778" crc="e3ef9db9" md5="928b9f250ce2f80e1079cfef092617e3" sha1="2cd73b5aba6adb3c503b63470fc1f04c10e47911"/>
+	</game>
+	<game name="Bloom (World) (Beta 1)">
+		<description>Bloom (World) (Beta 1)</description>
+		<rom name="Bloom (World) (Beta 1).pdx" size="6590109" crc="1360832f" md5="3f4b3358dee622616fe0f41df0c5b8be" sha1="966791bde61c81d844a2d8b8145b6c5025e27ae4"/>
+	</game>
+	<game name="Bloom (World) (Beta 2)">
+		<description>Bloom (World) (Beta 2)</description>
+		<rom name="Bloom (World) (Beta 2).pdx" size="6590041" crc="f1da623e" md5="78ba41afddf5a8dccf4ad0f0fc0d4527" sha1="d7f8bd1d3b909ce8959a868b4399a3367ff64121"/>
+	</game>
+	<game name="Coin Germs (World)">
+		<description>Coin Germs (World)</description>
+		<rom name="Coin Germs (World).pdx" size="63492" crc="03f951e4" md5="190c972a49243aa432b4918354136ebd" sha1="ab93621da0e2a426e02a7cfd39d19f95c9845443"/>
+	</game>
+	<game name="Hotel Heartbreak (World)">
+		<description>Hotel Heartbreak (World)</description>
+		<rom name="Hotel Heartbreak (World).pdx" size="53161" crc="9211cae8" md5="e4c6bb22d8362ac6a2f60b26aae36765" sha1="3fe1984994461d10e814fc2a96d7acf987cc8b2e"/>
+	</game>
+	<game name="I Was Dead, But&#133; (World) (v1.0.1)">
+		<description>I Was Dead, But&#133; (World) (v1.0.1)</description>
+		<rom name="I Was Dead, But&#226;&#128;&#166; (World) (v1.0.1).pdx" size="118071" crc="e41006f0" md5="5a4cb29639b47164fd1ebf18cb7179a9" sha1="9fcbcdcf3e645814792f1ebbab04524ccffbf065"/>
+	</game>
+	<game name="Pulp Game (World) (v3.6)">
+		<description>Pulp Game (World) (v3.6)</description>
+		<rom name="Pulp Game (World) (v3.6).pdx" size="88270" crc="66f60dfa" md5="6f69cdaf29f10b275a4858311acea533" sha1="c1c52c51b7521aa6a678ab8ce81e506c473c85a8"/>
+	</game>
+	<game name="Pulp Pong (World) (v2.41)">
+		<description>Pulp Pong (World) (v2.41)</description>
+		<rom name="Pulp Pong (World) (v2.41).pdx" size="48596" crc="a9c7f58c" md5="a816ffaf22571b9c0b0e719e164a3df1" sha1="9b4121c64479cc1453ede0625b4733e23687deb4"/>
+	</game>
+	<game name="Sprout (World)">
+		<description>Sprout (World)</description>
+		<rom name="Sprout (World).pdx" size="117617" crc="36f40d17" md5="fe76d8670b9e3b4aed364ea066dcbe4d" sha1="f356f04a424abb7febad42191414e42c5751f07a"/>
+	</game>
+	<game name="Your Turn, Little Bot (World)">
+		<description>Your Turn, Little Bot (World)</description>
+		<rom name="Your Turn, Little Bot (World).pdx" size="82108" crc="b5c93018" md5="96104901a9244c95bc6d72b4f2ebdfad" sha1="a48cb2d443b7f78a8481105a41c2d7f2ce2559a2"/>
+	</game>
+</datafile>
