@@ -4,10 +4,10 @@
 	<header>
 		<name>Panic - Playdate (Source Code)</name>
 		<description>Panic - Playdate (Source Code)</description>
-		<version>20210121-025025</version>
+		<version>20210121-031325</version>
 		<author>SynapsesConsortium</author>
 		<homepage>No-Crank</homepage>
-		<url>https://github.com</url>
+		<url>https://github.com/SynapsesConsortium/No-Crank</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="9-05 (World)">
